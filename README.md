@@ -56,7 +56,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=juangtz327&theme=github-dark-dimmed&hide_border=true&border_radius=5.5" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com?user=juangtz327&theme=github-dark-dimmed&hide_border=true&background=EBEBEB00" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=juangtz327&theme=github_dark&show_icons=true&hide_border=true" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juangtz327&hide=HTML&langs_count=8&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" />
