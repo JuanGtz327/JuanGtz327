@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=juangtz327.juangtz327" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Juan+Gtz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Juan+Gtz!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate web developer from Mexico</h3>
 
 <br/>
 
@@ -35,8 +35,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,mysql,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,githubactions,python,javascript,typescript,express,firebase,mongodb,mysql,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,mysql,django,html,css,vscode,tailwind,git,azure,docker" />
+    <img src="https://skillicons.dev/icons?i=grafana,heroku,linux,nextjs,planetscale,postman,sequelize,vite,powershell,postgres,gitlab,discord" />
 </div>
 
 <br/>
